@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corruptour</title>
+    <link>/</link>
+    <description>Recent content on Corruptour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Dec 2018 17:50:57 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¿Qué es el Corruptour?</title>
+      <link>/posts/que-es-el-corruptour/</link>
+      <pubDate>Sat, 08 Dec 2018 17:50:57 -0500</pubDate>
+      
+      <guid>/posts/que-es-el-corruptour/</guid>
+      <description>El Corruptour es un proyecto que invita a la población civil a informarse y a tomar acciones contundentes en contra de la corrupción. Se gesta desde la ferviente creencia de recorrer abordando y discutiendo casos polémicos o escándalos que ha denunciado la prensa y la opinión pública montados todos en una chiva.
+El recorrido por la ciudad tiene objetivos muy claros, que la gente aprenda sobre arquitectura e historia de la ciudad, pero también se informe e identifique las principales sedes donde se han cocinado grandes desfalcos a la inversión social del país.</description>
+    </item>
+    
+    <item>
+      <title>Corruptour el original - Bogotá / 26 de Noviembre de 2017</title>
+      <link>/posts/corruptour-el-original/</link>
+      <pubDate>Sat, 08 Dec 2018 18:04:09 -0500</pubDate>
+      
+      <guid>/posts/corruptour-el-original/</guid>
+      <description>1  Las estrellas de la corrupción en este recorrido son aquellos personajes que han estado involucrados en los escándalos de corrupción más sonados por los medios en Bogotá. Durante el recorrido, te invitamos a votar por el personaje que consideras más corrupto.*   Los presuntos corruptos de este listado fueron listados de acuerdo a su involucramiento en casos emblemáticos de corrupción en el país, detalles sobre su situación judicial según los reportes más recientes de medios se describen para cada personaje.</description>
+    </item>
+    
+    <item>
+      <title>Corruptour Elecciones al Congreso de la República - 4 de Marzo de 2018</title>
+      <link>/posts/corruptour-elecciones/</link>
+      <pubDate>Sat, 08 Dec 2018 18:49:49 -0500</pubDate>
+      
+      <guid>/posts/corruptour-elecciones/</guid>
+      <description>     1  Te invitamos a dejar un mensaje en temas anticorrupción al Congreso elegido el 11 de marzo de 2018. También podrás depositarlo en la urna que se instalará en la chiva.   </description>
+    </item>
+    
+    <item>
+      <title>Corruptour Armenia - 1 de Junio de 2018</title>
+      <link>/posts/corruptour-armenia/</link>
+      <pubDate>Sat, 08 Dec 2018 18:54:16 -0500</pubDate>
+      
+      <guid>/posts/corruptour-armenia/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Corruptour Pereira - 2 de Junio de 2018</title>
+      <link>/posts/corruptour-pereira/</link>
+      <pubDate>Sat, 08 Dec 2018 18:55:12 -0500</pubDate>
+      
+      <guid>/posts/corruptour-pereira/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Corruptour Cartagena - 22 de Junio de 2018</title>
+      <link>/posts/corruptour-cartagena/</link>
+      <pubDate>Sat, 08 Dec 2018 18:56:27 -0500</pubDate>
+      
+      <guid>/posts/corruptour-cartagena/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Galería</title>
+      <link>/posts/galeria/</link>
+      <pubDate>Sat, 08 Dec 2018 18:57:26 -0500</pubDate>
+      
+      <guid>/posts/galeria/</guid>
+      <description> Corruptour Electoral 2018                    </description>
+    </item>
+    
+    <item>
+      <title>El equipo</title>
+      <link>/posts/el-equipo/</link>
+      <pubDate>Sat, 08 Dec 2018 18:59:25 -0500</pubDate>
+      
+      <guid>/posts/el-equipo/</guid>
+      <description>El Corruptour es un proyecto inspirado en el primer Corruptour que surgió en México (Monterrey, Nuevo León, 2014). La adaptación del Corruptour en Colombia está a cargo de:
+Transparencia por Colombia
+Somos el Capitulo Colombiano de Transparencia Internacional -TI-, la Organización No Gubernamental líder en el mundo en la lucha contra la corrupción. Visítanos, conoce y denuncia hechos de corrupción en www.monitorciudadano.co/denuncia
+ Claire Launay Gama - Directora de Movilización e incidencia Mario Alvarado- Profesional de movilización en incidencia Angela María Rodríguez - Profesional de proyecto Monitor Ciudadano de la Corrupción Paula Muñoz- Asistente de Investigación proyecto Monitor Ciudadano de la Corrupción Mónica Oyuela- Directora de Comunicaciones Maria Paula Rincón - Profesional de Comunicaciones  Datasketch</description>
+    </item>
+    
+    <item>
+      <title>Metodología</title>
+      <link>/metodologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/metodologia/</guid>
+      <description>This is how we built this page. First we Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

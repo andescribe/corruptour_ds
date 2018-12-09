@@ -1,7 +1,6 @@
 baseURL = "/"
-title = "Titi"
+title = "Corruptour"
 theme = "hugo-titi"
-disqusShortname = "datasketch"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [blackfriday]
@@ -12,42 +11,29 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Inicio"
     url = "/"
     weight = 1
-  [[menu.nav]]
-    name = "Metodología"
-    url = "/metodologia"
-    weight = 1
-
+  [[menu.burger]]
+    name = "Haz el Corruptour en tu ciudad"
+    url = "https://s3.amazonaws.com/corruptour.datasketch.co/assets/docs/metodologia.pdf"
+    weight = 8
+    
 [params]
   # SEO general site description
-  description = "Site SEO description"
+  description = "El Tour de la Corrupción en Colombia, buscamos que el ciudadano entienda las repercusiones de esta problemática en el país"
 
   # Custom css and js
   css = []
   js = []
 
   [params.fonts]
-    body = "Merriweather:300,400"
-    headings = "Lato:300,400"
+    body = "Titillium Web:300,400"
 
   [params.nav]
-    bg = "#eee"
+    bg = "#f4e61e"
     color = "black"
-    logo = "images/ds-logo.svg"
-    logoWidth = "150px"
     # Optional, true by default
     # fixed = true
 
-  [[params.social]]
-    icon = "twitter"
-    url = "https://twitter.com/datasketch"
-  [[params.social]]
-    icon = "facebook"
-    url = "https://www.facebook.com/datasketch/"
-  [[params.social]]
-    icon = "instagram"
-    url = "https://www.instagram.com/datasketch/"
-
   [params.footer]
-    text = "Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."
-    bg = "black"
-    color = "white"
+    text = "Este es un trabajo de periodismo de datos realizado por el equipo de Datasketch y Transparencia por Colombia. Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."
+    bg = "#f4e61e"
+    color = "black" 

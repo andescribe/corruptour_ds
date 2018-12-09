@@ -30,8 +30,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.nav]
     bg = "#f4e61e"
     color = "black"
-    # Optional, true by default
-    # fixed = true
+    logo = "/images/logos para corruptour.png"
+    logoWidth = "300px"
 
   [params.footer]
     text = "Este es un trabajo de periodismo de datos realizado por el equipo de Datasketch y Transparencia por Colombia. Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."

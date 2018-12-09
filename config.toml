@@ -31,7 +31,7 @@ publishDir="docs"
   [params.nav]
     bg = "#f4e61e"
     color = "black"
-    logo = "/images/logos para corruptour.png"
+    logo = "images/logos para corruptour.png"
     logoWidth = "300px"
 
   [params.footer]

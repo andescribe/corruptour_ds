@@ -2,8 +2,10 @@
 ---
 
 {{< boxes bg="#f4e61e" color="black" height="100" justify="start" align="center" >}}
-  {{< box mobile="12" tablet="6">}} AQUÍ VA LOGO DEL CORRUPTOUR {{< /box >}}
-  {{< box mobile="12" tablet="6">}}El Corruptour es un recorrido por los lugares más emblemáticos de la corrupción. En éste se aborda el tema de la corrupción de una manera sencilla y con humor. Durante el recorrido, cualquier ciudadano interesado puede visualizar y entender mejor las repercusiones de este fenómeno. En este viaje se buscarán soluciones colectivas a un problema que nos afecta a todos.{{< /box >}}
+  {{< box mobile="12" tablet="6">}}
+  ![](/images/logo_corruptour.png)
+  {{< /box >}}
+  {{< box mobile="12" tablet="6" id="intro-text">}}El Corruptour es un recorrido por los lugares más emblemáticos de la corrupción. En éste se aborda el tema de la corrupción de una manera sencilla y con humor. Durante el recorrido, cualquier ciudadano interesado puede visualizar y entender mejor las repercusiones de este fenómeno. En este viaje se buscarán soluciones colectivas a un problema que nos afecta a todos.{{< /box >}}
 {{< /boxes >}}
 
 {{< slider

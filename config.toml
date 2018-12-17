@@ -18,7 +18,7 @@ publishDir="docs"
   description = "El Tour de la Corrupción en Colombia, buscamos que el ciudadano entienda las repercusiones de esta problemática en el país"
 
   # Custom css and js
-  css = []
+  css = ['corruptour.css']
   js = []
 
   [params.fonts]

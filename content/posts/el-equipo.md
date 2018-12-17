@@ -5,13 +5,12 @@ description: "Este es el equipo detrás del Corruptour"
 hideTitle: false
 cover: true
 highlight: ""
-menu: "burger"
-weight: 9
+menu: "nav"
 ---
 
 El Corruptour es un proyecto inspirado en el primer Corruptour que surgió en México (Monterrey, Nuevo León, 2014). La adaptación del Corruptour en Colombia está a cargo de:
 
-**Transparencia por Colombia**
+# Transparencia por Colombia
 
 Somos el Capitulo Colombiano de Transparencia Internacional -TI-, la Organización No Gubernamental líder en el mundo en la lucha contra la corrupción. Visítanos, conoce y denuncia hechos de corrupción en www.monitorciudadano.co/denuncia
 
@@ -22,7 +21,7 @@ Somos el Capitulo Colombiano de Transparencia Internacional -TI-, la Organizaci�
 - Mónica Oyuela- Directora de Comunicaciones
 - Maria Paula Rincón - Profesional de Comunicaciones 
 
-**Datasketch**
+# Datasketch
 
 Plataforma de periodismo de Investigación y de Datos. Accede a nuestras herramientas de visualización https://www.datasketch.co/apps y a la base de datos de conexiones políticas https://www.datasketch.co/whois
 

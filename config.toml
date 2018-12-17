@@ -12,10 +12,6 @@ publishDir="docs"
     name = "Inicio"
     url = "/"
     weight = 1
-  [[menu.burger]]
-    name = "Haz el Corruptour en tu ciudad"
-    url = "https://s3.amazonaws.com/corruptour.datasketch.co/assets/docs/metodologia.pdf"
-    weight = 8
     
 [params]
   # SEO general site description
@@ -33,8 +29,9 @@ publishDir="docs"
     color = "black"
     logo = "images/logos para corruptour.png"
     logoWidth = "300px"
+    
 
   [params.footer]
-    text = "Este es un trabajo de periodismo de datos realizado por el equipo de Datasketch y Transparencia por Colombia. Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."
+    text = "Esta iniciativa es realizada por el equipo de Datasketch y Transparencia por Colombia. Todo el material en esta página es [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Si reusas o adaptas recursos de esta página, por favor vincula y referencia nuestro artículo o sitio web."
     bg = "#f4e61e"
     color = "black" 

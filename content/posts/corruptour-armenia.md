@@ -15,7 +15,7 @@ weight: 4
 {{< title align="center" weight="300" size="30px">}}**¡Primer Corruptour en otra ciudad!**{{< /title >}}
 {{< jump 20 >}}
 
-El primer **Corruptour en Armenia** fue también el primero realizado en una ciudad distinta a Bogotá. La iniciativa contó con el apoyo de Sistema Universitario del Eje Cafetero –SUEJE. En el tour se reflecionó sobre casos de corrupción reconocidos como el de las cámaras fantasmas, el hospital San Juan de Dios, la alcaldía de Armenia, Corporación Autónoma Regional del Quindío - CRQ y Gobernación del Quindío. 
+El primer **Corruptour en Armenia** fue también el primero realizado a nivel regional en Colombia, en una ciudad distinta a Bogotá. La iniciativa contó con el apoyo de Sistema Universitario del Eje Cafetero –SUEJE, LOS JUANES Media group,  En el tour se reflecionó sobre casos de corrupción reconocidos como el de las cámaras fantasmas, el hospital San Juan de Dios, la alcaldía de Armenia, Corporación Autónoma Regional del Quindío - CRQ y Gobernación del Quindío. 
 
 En esta toma cívica se invitó a un artita urbano a realizar un mural en el que la gente podía pegar un chile para indicar que no se tragaba más la corrupción. 
 

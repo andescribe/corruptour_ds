@@ -6,6 +6,17 @@ menu: "burger"
 weight: 2
 ---
 {{< iframe url="https://uploads.knightlab.com/storymapjs/2736aaaee47ae0494bc95b1e120c3606/corruptour-1/draft.html" >}}
+
+{{< jump 20 >}}
+{{< title align="center" weight="300" size="30px">}}**¡Primer Corruptour en Colombia!**{{< /title >}}
+{{< jump 20 >}}
+
+El primer Corruptour en Colombia se llevó a cabo en la ciudad de Bogotá, salió desde Parque Nacional Enrique Olaya Herrera con **Diego Camargo** (comediante colombiano) como guía, se recorrieron los lugares más emblematicos que se han visto envueltos en casos de corrupción en la ciudad; se contó con música en vivo en todo el recorrido y logramos que los participantes entonaran el himno del Corruptour por primera vez, desde entonces se ha entonado en todos los tours.
+
+En la chiva también se realizó la votación **"CorrupStars"** que permitía al ciudadano seleccionar al corrupto más corrupto de todos, los resultados se dieron en el destino final del Corruptour, el cuál fue la Plaza de Bolívar.
+
+Y para finalizar el tour con broche de oro se realizó la primera intervención de **Severo Malo Ladrón de Guevara**, un personaje que se volvió protagonista de los Corruptours.
+
 {{< boxes
   bg="yellow"
   color="black"

@@ -6,7 +6,7 @@ hideTitle: false
 cover: true
 highlight: ""
 menu: "burger"
-weight: 8
+weight: 9
 ---
 
 # Corruptour Electoral 2018

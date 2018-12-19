@@ -1,12 +1,12 @@
 ---
-title: "Corruptour Bici"
+title: "Corruptour Bici - Bogotá / 12 de Agosto de 2018"
 date: "2018-12-19T10:14:24-05:00"
 description: "Type SEO description here"
 hideTitle: false
 cover: true
 highlight: ""
 menu: "burger"
-weigth: 7
+weight: 8
 
 ---
 {{< title align="center" weight="300" size="30px">}}**¡Primer Corruptour en Bici!**{{< /title >}}

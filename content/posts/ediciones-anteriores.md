@@ -23,3 +23,5 @@ Conoce los recorridos de las ediciones anteriores:
 [Corruptour Pereira - 2 de Junio de 2018](/posts/corruptour-pereira/)
 
 [Corruptour Cartagena - 22 de Junio de 2018](/posts/corruptour-cartagena/)
+
+[Corrruptour en Bici - Bogotá / 12 de Agosto de 2018](/posts/corruptour-bici/)

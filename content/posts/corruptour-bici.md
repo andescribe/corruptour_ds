@@ -34,4 +34,7 @@ Así fue como se vivió el primer Corruptour en Bici.
   {{< slide title="" image="images/bici-3.jpg" >}}{{< /slide >}}
   {{< slide title="" image="images/bici-4.jpg" >}}{{< /slide >}}
   {{< slide title="" image="images/bici-5.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="images/bici-6.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="images/bici-7.jpg" >}}{{< /slide >}}
+  {{< slide title="" image="images/bici-8.jpg" >}}{{< /slide >}}
 {{< /slider >}}

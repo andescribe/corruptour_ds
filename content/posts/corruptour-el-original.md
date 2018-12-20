@@ -20,15 +20,17 @@ Y para finalizar el tour con broche de oro se realizó la primera intervención 
 {{< boxes
   bg="yellow"
   color="black"
-  height="2"
+  height="1"
   justify="start"
-  align="center" >}}
+  align="center"
+  class="banner-corrupstars"
+  >}}
   {{< box mobile="12" tablet="6" >}}![](/images/corrupstar.png){{< /box >}}
   {{< box mobile="12" tablet="6" >}}Las estrellas de la corrupción en este recorrido son aquellos personajes que han estado involucrados en los escándalos de corrupción más sonados por los medios en Bogotá. Durante el recorrido, te invitamos a votar por el personaje que consideras más corrupto.*{{< /box >}}
+  
 {{< /boxes >}}
-
 {{< boxes
-  bg="yellow"
+  bg=""
   color="black"
   align="center"
   class="corrupstars-poll"

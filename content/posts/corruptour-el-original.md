@@ -38,56 +38,64 @@ Y para finalizar el tour con broche de oro se realizó la primera intervención 
 {{< box pc="8" tablet="9" mobile="12" >}}
 {{< boxes >}}
 <!-- samuel moreno -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12"
+class="box-corrupstars">}}
 {{< img_coin url="/images/samuel-moreno.png" size="100" >}}
 **Samuel Moreno**
 
 Carrusel de la contración
 {{</box >}}
 <!-- Miguel Nule -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12" 
+class="box-corrupstars" >}}
 {{< img_coin url="/images/miguel-nule.png" size="100" >}}
 **Miguel Nule**
 
 Carrusel de la contración
 {{</box >}}
 <!-- Carlos Palacino -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12" 
+class="box-corrupstars" >}}
 {{< img_coin url="/images/carlos-palacino.png" size="100" >}}
 **Carlos Palacino**
 
 Saludcoop
 {{</box >}}
 <!-- Jorge Pretelt -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12" 
+class="box-corrupstars" >}}
 {{< img_coin url="/images/jorge-pretelt.png" size="100" >}}
 **Jorge Pretelt**
 
 Fidupetrol
 {{</box >}}
 <!-- Tomás Jaramillo -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12"
+class="box-corrupstars" >}}
 {{< img_coin url="/images/tomas-jaramillo.png" size="100" >}}
 **Tomás Jaramillo**
 
 Interbolsa
 {{</box >}}
 <!-- Rodrigo Jaramillo -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12" 
+class="box-corrupstars" >}}
 {{< img_coin url="/images/rodrigo-jaramillo.png" size="100" >}}
 **Rodrigo Jaramillo**
 
 Interbolsa
 {{</box >}}
 <!-- Carlos Albornoz -->
-{{< box pc="3" tablet="6" mobile="12">}}
+{{< box pc="3" tablet="6" mobile="12"
+class="box-corrupstars" >}}
 {{< img_coin url="/images/carlos-albornoz.png" size="100" >}}
 **Carlos Albornoz**
 
 DNE
 {{</box >}}
 <!-- Camilo Bula -->
-{{< box pc="3" tablet="6" mobile="12" >}}
+{{< box pc="3" tablet="6" mobile="12" 
+class="box-corrupstars" >}}
 {{< img_coin url="/images/camilo-bula.png" size="100" >}}
 **Camilo Bula**
 
@@ -96,7 +104,7 @@ DNE
 {{< /boxes >}}
 {{< /box >}}
 <!-- Botón de votar -->  
-{{< box pc="4" tablet="3" mobile="12" >}}<a class='typeform-share button' href='https://randommonkey.typeform.com/to/VeZXjV' data-mode='popup' style='display:inline-block;text-decoration:none;background-color:#f4e61e;color:black;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:27px;line-height:67.5px;text-align:center;margin:0;height:67.5px;padding:0px 45px;border-radius:16px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;' data-submit-close-delay='0' target='_blank'>Votar</a>
+{{< box pc="4" tablet="3" mobile="12" class="box-corrupstars" >}}<a class='typeform-share button' href='https://randommonkey.typeform.com/to/VeZXjV' data-mode='popup' style='display:inline-block;text-decoration:none;background-color:#f4e61e;color:black;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:27px;line-height:67.5px;text-align:center;margin:0;height:67.5px;padding:0px 45px;border-radius:16px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;' data-submit-close-delay='0' target='_blank'>Votar</a>
 <script>
 (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
 </script> {{< /box >}}
